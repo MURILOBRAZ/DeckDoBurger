@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "271553273620",
+    "project_id": "p1-muriloe-henrique-qld42j",
+    "storage_bucket": "p1-muriloe-henrique-qld42j.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271553273620:android:0e25859cdb77cae32eac01",
+        "android_client_info": {
+          "package_name": "com.mycompany.p1muriloehenrique"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1gViKe6QGvWI0aqpfMU8aEU8hebdzQ2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
